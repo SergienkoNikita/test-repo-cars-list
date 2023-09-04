@@ -1,10 +1,10 @@
 import {carsData} from "@/data/cars-data";
 
-export const cities = new Set(carsData.data.map((car) => {
-  return car.city;
-}))
-
 export const getCitiesOptions = () => {
+  const cities = new Set(carsData.data.map((car) => {
+    return car.city;
+  }))
+
   const options = [];
 
   cities.forEach((city) => {
