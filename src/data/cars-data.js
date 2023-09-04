@@ -1,6 +1,6 @@
 export const carsData = [
   {
-    name: 'Ford C-Max',
+    name: 'Ford Max',
     year: 2007,
     mileage: 120,
     price: 5500,
