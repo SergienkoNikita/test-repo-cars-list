@@ -1,6 +1,6 @@
 import {carsData} from "@/data/cars-data";
 
-export const districts = new Set(carsData.map((car) => {
+export const districts = new Set(carsData.data.map((car) => {
   return car.district;
 }))
 
