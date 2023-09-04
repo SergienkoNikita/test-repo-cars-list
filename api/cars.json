@@ -82,5 +82,17 @@
     "pluses": ["Toyota", "У меня была такая! Я был доволен, у меня было 260 пробега, движок отличный!"],
     "minuses": ["Пробег, но я советую посмотреть!"],
     "link": "https://auto.ria.com/auto_toyota_corolla_35004308.html"
+  },
+  {
+    "name": "Opel Astra",
+    "year": 2007,
+    "mileage": 175,
+    "price": 6000,
+    "city": "Славянск",
+    "district": "Донецкая",
+    "img": "https://cdn2.riastatic.com/photosnew/auto/photo/opel_astra__511814172f.jpg",
+    "pluses": ["Выглядит не плохо, дороговат, но зато в Славянске", "Не дорогой в ремонте"],
+    "minuses": ["Цена"],
+    "link": "https://auto.ria.com/auto_opel_astra_35092182.html"
   }
 ]
