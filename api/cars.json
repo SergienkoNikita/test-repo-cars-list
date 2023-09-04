@@ -57,6 +57,30 @@
     "img": "https://cdn0.riastatic.com/photosnew/auto/photo/hyundai_sonata__497505955f.jpg",
     "pluses": [],
     "minuses": ["Год", "Пробег, очень большой", "Какая-то она замучаная"],
-    "link": "https://auto.ria.com/auto_opel_astra_33959299.html"
+    "link": "https://auto.ria.com/auto_hyundai_sonata_34538189.html"
+  },
+  {
+    "name": "Hyundai Sonata",
+    "year": 2003,
+    "mileage": 310,
+    "price": 5100,
+    "city": "Славянск",
+    "district": "Донецкая",
+    "img": "https://cdn0.riastatic.com/photosnew/auto/photo/toyota_avensis__475039450f.jpg",
+    "pluses": ["Toyota", "Я бы посмотрел, но этот пробег..."],
+    "minuses": ["Год", "Пробег, очень большой"],
+    "link": "https://auto.ria.com/auto_toyota_avensis_33650481.html"
+  },
+  {
+    "name": "Toyota Corolla",
+    "year": 2005,
+    "mileage": 200,
+    "price": 5450,
+    "city": "Славянск",
+    "district": "Донецкая",
+    "img": "https://cdn1.riastatic.com/photosnew/auto/photo/toyota_corolla__509460941f.jpg",
+    "pluses": ["Toyota", "У меня была такая! Я был доволен, у меня было 260 пробега, движок отличный!"],
+    "minuses": ["Пробег, но я советую посмотреть!"],
+    "link": "https://auto.ria.com/auto_toyota_corolla_35004308.html"
   }
 ]
