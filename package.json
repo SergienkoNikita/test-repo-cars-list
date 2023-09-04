@@ -3,14 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://sergienkonikita.github.io/test-repo-cars-list",
   "scripts": {
     "build": "webpack --define-process-env-node-env production",
     "build-dev": "webpack",
-    "start": "webpack serve --mode=development"
+    "start": "webpack serve --mode=development",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^6.0.0",
     "webpack": "^5.88.2"
   },
   "devDependencies": {
