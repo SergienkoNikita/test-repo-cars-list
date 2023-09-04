@@ -1,36 +1,14 @@
 [
   {
-    "name": "Ford Max",
+    "name": "Skoda Fabia",
     "year": 2007,
-    "mileage": 120,
-    "price": 5500,
-    "city": "Харьков",
-    "district": "Харьковская",
-    "img": "https://cdn0.riastatic.com/photosnew/auto/photo/ford_c-max__489458480f.jpg",
-    "pluses": ["Приятный салон", "Нормальная комплектация", "Сама машина удобная"],
-    "minuses": ["Год"],
-    "link": "https://auto.ria.com/auto_ford_c_max_32053454.html"
-  },
-  {
-    "name": "Honda Civic",
-    "year": 2009,
-    "mileage": 121,
-    "price": 5445,
-    "city": "Харьков",
-    "district": "Харьковская",
-    "pluses": ["Цена", "Богатая комплектация", "Сама машина удобная", "Для Хонды - маленький пробег"],
-    "minuses": ["Люк (узел который нужно обслуживать, и следить чтоб не потек)", "Какие-то выцвевшие седушки велюровые, нужно смотреть"],
-    "link": "https://auto.ria.com/auto_honda_civic_33700942.html"
-  },
-  {
-    "name": "Skoda Fabia ",
-    "year": 2013,
-    "mileage": 175,
-    "price": 4850,
-    "city": "Днепропетровск",
-    "district": "Днепропетровская",
-    "pluses": ["На фото видно дефекты по кузову, если это все, то цена отличная", "Цена", "Двигатель 1.4"],
-    "minuses": ["Салон какой-то невнятный на фото"],
-    "link": "https://auto.ria.com/auto_honda_civic_33700942.html"
+    "mileage": 300,
+    "price": 3600,
+    "city": "Славянск",
+    "district": "Донецкая",
+    "img": "https://cdn4.riastatic.com/photosnew/auto/photo/skoda_fabia__513045384f.jpg",
+    "pluses": ["Цена"],
+    "minuses": ["Год", "Пробег", "Состояние", "Вообще она ушатаная, скинул для проверки работы сайта"],
+    "link": "https://auto.ria.com/auto_skoda_fabia_35140405.html"
   }
 ]
