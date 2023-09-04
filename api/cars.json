@@ -10,5 +10,17 @@
     "pluses": ["Цена"],
     "minuses": ["Год", "Пробег", "Состояние", "Вообще она ушатаная, скинул для проверки работы сайта"],
     "link": "https://auto.ria.com/auto_skoda_fabia_35140405.html"
+  },
+  {
+    "name": "Opel Astra",
+    "year": 2007,
+    "mileage": 222,
+    "price": 4300,
+    "city": "Славянск",
+    "district": "Донецкая",
+    "img": "https://cdn4.riastatic.com/photosnew/auto/photo/opel_astra__508813964f.jpg",
+    "pluses": ["Визуально не плохо"],
+    "minuses": ["Год", "Пробег, очень большой, а так не плохо визуально"],
+    "link": "https://auto.ria.com/auto_skoda_fabia_35140405.html"
   }
 ]
