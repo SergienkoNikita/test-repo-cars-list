@@ -1,4 +1,5 @@
 import {getCarCart} from "@/carts-list/get-car-cart";
+import {getSpinner} from "@/spinner/get-spinner";
 
 const sortByParam = (cars, param) => {
   const notSorted = [...cars]
@@ -34,9 +35,15 @@ const getCarsListByFilter = async (params) => {
 }
 export const renderCarsList = async (filters) => {
   const listElement = document.getElementById('cars-list')
-  listElement.innerHTML = '';
+  listElement.innerHTML = getSpinner();
 
-  const carsList = await getCarsListByFilter(filters);
+  let carsList = [];
+
+  try {
+    carsList = await getCarsListByFilter(filters);
+  } finally {
+    listElement.innerHTML = ''
+  }
 
   carsList.forEach((car) => {
     listElement.insertAdjacentHTML('beforeend', getCarCart(car))
