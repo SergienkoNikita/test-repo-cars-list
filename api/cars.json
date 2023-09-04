@@ -6,6 +6,7 @@
     "price": 5500,
     "city": "Харьков",
     "district": "Харьковская",
+    "img": "https://cdn0.riastatic.com/photosnew/auto/photo/ford_c-max__489458480f.jpg",
     "pluses": ["Приятный салон", "Нормальная комплектация", "Сама машина удобная"],
     "minuses": ["Год"],
     "link": "https://auto.ria.com/auto_ford_c_max_32053454.html"

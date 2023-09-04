@@ -6,6 +6,9 @@ export const getCarCart = (carData) => {
         <h4 class="auto-title">
             ${carData.name} / ${carData.year}г / <span class="${mileageClass}">${carData.mileage}тыс.</span> / <span class="${priceClass}">${carData.price} $</span>
         </h4>
+        ${carData.img ? `<div class="cat-img">
+            <img src="${carData.img}" alt="">
+        </div>` : ''}
         <div class="auto-cart-pros">
             <p class="text-light-green">Плюсы:</p>
             <ul class="car-desc text-light-green">
@@ -16,7 +19,7 @@ export const getCarCart = (carData) => {
             <ul class="car-desc text-light-red">
                 ${carData.minuses.map((minus) => `<li>${minus}</li>`).join('')}
             </ul>
-            </div>
+        </div>
         <div class="car-additional">
           <p class="flex"><span class="car-addtional-head">Цена: </span><span class="${priceClass} text-bold">${carData.price} $</span></p>
           <p class="flex"><span class="car-addtional-head">Пробег: </span><span class="${mileageClass} text-bold">${carData.mileage} тыс.</span></p>
