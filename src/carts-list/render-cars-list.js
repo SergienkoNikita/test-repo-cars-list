@@ -1,5 +1,4 @@
 import {getCarCart} from "@/carts-list/get-car-cart";
-import {carsData} from "@/data/cars-data";
 
 const sortByParam = (cars, param) => {
   const notSorted = [...cars]
@@ -16,8 +15,8 @@ const sortByParam = (cars, param) => {
   }
 }
 
-const getCarsListByFilter = (params) => {
-  let cars = [...carsData];
+const getCarsListByFilter = async (params) => {
+  let cars = await fetch('https://raw.githubusercontent.com/SergienkoNikita/test-repo-cars-list/main/api/cars.json').then(res => res.json());
 
   if (params.district) {
     cars = cars.filter((car) => car.district === params.district)
@@ -33,11 +32,11 @@ const getCarsListByFilter = (params) => {
 
   return cars;
 }
-export const renderCarsList = (filters) => {
+export const renderCarsList = async (filters) => {
   const listElement = document.getElementById('cars-list')
   listElement.innerHTML = '';
 
-  const carsList = getCarsListByFilter(filters);
+  const carsList = await getCarsListByFilter(filters);
 
   carsList.forEach((car) => {
     listElement.insertAdjacentHTML('beforeend', getCarCart(car))
