@@ -226,5 +226,17 @@
     "pluses": ["Она классная, расстаможена, но тебе врядле подойдет (это как у Феди, и пробега меньше)", "Цена", "Комфортная"],
     "minuses": ["Дорогая в обслуживании"],
     "link": "https://auto.ria.com/auto_audi_a6_34671903.html"
+  },
+  {
+    "name":  "Skoda Fabia",
+    "year": 2006,
+    "mileage": 129,
+    "price": 5550,
+    "city": "Покровск",
+    "district": "Донецкая",
+    "img": "https://cdn0.riastatic.com/photosnew/auto/photo/skoda_fabia__413813670f.jpg",
+    "pluses": ["Он пишет что она идеальная, но там только 1 фото..."],
+    "minuses": ["Если все так как он описал - тоих нет"],
+    "link": "https://auto.ria.com/auto_skoda_fabia_30307440.html"
   }
 ]
