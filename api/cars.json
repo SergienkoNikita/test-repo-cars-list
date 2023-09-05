@@ -214,5 +214,17 @@
     "pluses": ["Вот вроде все ок, и пробег, и цена, и год - но что-то смущает..."],
     "minuses": [],
     "link": "https://auto.ria.com/auto_nissan_note_35055734.html"
+  },
+  {
+    "name":  "Audi A6",
+    "year": 2002,
+    "mileage": 188,
+    "price": 5550,
+    "city": "Покровск",
+    "district": "Донецкая",
+    "img": "https://cdn3.riastatic.com/photosnew/auto/photo/audi_a6__501009438f.jpg",
+    "pluses": ["Она классная, расстаможена, но тебе врядле подойдет (это как у Феди, и пробега меньше)", "Цена", "Комфортная"],
+    "minuses": ["Дорогая в обслуживании"],
+    "link": "https://auto.ria.com/auto_audi_a6_34671903.html"
   }
 ]
