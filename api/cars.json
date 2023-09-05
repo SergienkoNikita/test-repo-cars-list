@@ -1,65 +1,5 @@
 [
   {
-    "name": "Skoda Fabia",
-    "year": 2007,
-    "mileage": 300,
-    "price": 3600,
-    "city": "Славянск",
-    "district": "Донецкая",
-    "img": "https://cdn4.riastatic.com/photosnew/auto/photo/skoda_fabia__513045384f.jpg",
-    "pluses": ["Цена"],
-    "minuses": ["Год", "Пробег", "Состояние", "Вообще она ушатаная, скинул для проверки работы сайта"],
-    "link": "https://auto.ria.com/auto_skoda_fabia_35140405.html"
-  },
-  {
-    "name": "Opel Astra",
-    "year": 2007,
-    "mileage": 222,
-    "price": 4300,
-    "city": "Славянск",
-    "district": "Донецкая",
-    "img": "https://cdn4.riastatic.com/photosnew/auto/photo/opel_astra__508813964f.jpg",
-    "pluses": ["Визуально не плохо"],
-    "minuses": ["Год", "Пробег, очень большой, а так не плохо визуально"],
-    "link": "https://auto.ria.com/auto_opel_astra_34979150.html"
-  },
-  {
-    "name": "Volkswagen Passat B5+",
-    "year": 2001,
-    "mileage": 267,
-    "price": 4700,
-    "city": "Славянск",
-    "district": "Донецкая",
-    "img": "https://cdn0.riastatic.com/photosnew/auto/photo/volkswagen_passat__510192115f.jpg",
-    "pluses": [],
-    "minuses": ["Год", "Пробег, очень большой", "Крашеный, похоже что битый (100%)"],
-    "link": "https://auto.ria.com/auto_volkswagen_passat_35031887.html"
-  },
-  {
-    "name": "Opel Astra",
-    "year": 2008,
-    "mileage": 226,
-    "price": 4400,
-    "city": "Славянск",
-    "district": "Донецкая",
-    "img": "https://cdn1.riastatic.com/photosnew/auto/photo/opel_astra__482704621f.jpg",
-    "pluses": [],
-    "minuses": ["Год", "Пробег, очень большой"],
-    "link": "https://auto.ria.com/auto_opel_astra_33959299.html"
-  },
-  {
-    "name": "Hyundai Sonata",
-    "year": 2008,
-    "mileage": 200,
-    "price": 5000,
-    "city": "Славянск",
-    "district": "Донецкая",
-    "img": "https://cdn0.riastatic.com/photosnew/auto/photo/hyundai_sonata__497505955f.jpg",
-    "pluses": [],
-    "minuses": ["Год", "Пробег, очень большой", "Какая-то она замучаная"],
-    "link": "https://auto.ria.com/auto_hyundai_sonata_34538189.html"
-  },
-  {
     "name": "Toyota Avensis",
     "year": 2003,
     "mileage": 310,
@@ -94,5 +34,89 @@
     "pluses": ["Выглядит не плохо, дороговат, но зато в Славянске", "Не дорогой в ремонте"],
     "minuses": ["Цена"],
     "link": "https://auto.ria.com/auto_opel_astra_35092182.html"
+  },
+  {
+    "name": "Hyundai Accent",
+    "year": 2008,
+    "mileage": 178,
+    "price": 5600,
+    "city": "Харьков",
+    "district": "Харьковская",
+    "img": "https://cdn4.riastatic.com/photosnew/auto/photo/hyundai_accent__512959559f.jpg",
+    "pluses": ["Есть надежда что в хорошем состоянии", "Не дорогой в ремонте"],
+    "minuses": ["Цена", "Пробег", "Комплектация"],
+    "link": "https://auto.ria.com/auto_hyundai_accent_35092847.html"
+  },
+  {
+    "name": "Honda Jazz",
+    "year": 2004,
+    "mileage": 170,
+    "price": 4800,
+    "city": "Кривой Рог",
+    "district": "Днепропетровская",
+    "img": "https://cdn2.riastatic.com/photosnew/auto/photo/honda_jazz__512858462f.jpg",
+    "pluses": ["Маленькая", "Хорошо выглядит","Надежная", "Цена", "Маленький расход"],
+    "minuses": ["Пробег"],
+    "link": "https://auto.ria.com/auto_honda_jazz_35140805.html"
+  },
+  {
+    "name": "Mitsubishi Lancer",
+    "year": 2007,
+    "mileage": 165,
+    "price": 6900,
+    "city": "Харьков",
+    "district": "Харьковская",
+    "img": "https://cdn3.riastatic.com/photosnew/auto/photo/mitsubishi_lancer__512992678f.jpg",
+    "pluses": ["Выглядит хорошо", "Ухоженый салон","Газ", "Атомат"],
+    "minuses": ["Цена"],
+    "link": "https://auto.ria.com/auto_mitsubishi_lancer_35138085.html"
+  },
+  {
+    "name": "Honda Civic",
+    "year": 2007,
+    "mileage": 158,
+    "price": 6900,
+    "city": "Константиновка",
+    "district": "Донецкая",
+    "img": "https://cdn3.riastatic.com/photosnew/auto/photo/honda_civic__512982378f.jpg",
+    "pluses": ["Надежная", "Ухоженый салон","Комплектация", "Хорошая машина с очень хорошей комплектацией"],
+    "minuses": ["Цена"],
+    "link": "https://auto.ria.com/auto_honda_civic_35137705.html"
+  },
+  {
+    "name": "Skoda Fabia",
+    "year": 2008,
+    "mileage": 178,
+    "price": 4900,
+    "city": "Краматорск",
+    "district": "Донецкая",
+    "img": "https://cdn1.riastatic.com/photosnew/auto/photo/skoda_fabia__512873956f.jpg",
+    "pluses": ["Шкода как шкода", "Цена","2 комплекта резины", "Чехлы можно снять, и если там возможно все ок", "Визуально не плохо"],
+    "minuses": ["Пробег"],
+    "link": "https://auto.ria.com/auto_skoda_fabia_35133134.html"
+  },
+  {
+    "name": "Nissan Note",
+    "year": 2006,
+    "mileage": 191,
+    "price": 4900,
+    "city": "Покровск",
+    "district": "Донецкая",
+    "img": "https://cdn1.riastatic.com/photosnew/auto/photo/nissan_note__512715261f.jpg",
+    "pluses": ["Комплектация", "Не большой", "Пишет что обслуженая", "Ездила девушка..."],
+    "minuses": ["Пробег", "Цена", "Какой-то он уставший"],
+    "link": "https://auto.ria.com/auto_nissan_note_35126973.html"
+  },
+  {
+    "name": "Nissan Note",
+    "year": 2006,
+    "mileage": 191,
+    "price": 4900,
+    "city": "Покровск",
+    "district": "Донецкая",
+    "img": "https://cdn1.riastatic.com/photosnew/auto/photo/nissan_note__512715261f.jpg",
+    "pluses": ["Комплектация", "Не большой", "Пишет что обслуженая", "Ездила девушка..."],
+    "minuses": ["Пробег", "Цена", "Какой-то он уставший"],
+    "link": "https://auto.ria.com/auto_nissan_note_35126973.html"
   }
 ]
