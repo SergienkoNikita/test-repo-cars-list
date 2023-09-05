@@ -144,15 +144,39 @@
     "link": "https://auto.ria.com/auto_skoda_fabia_25729873.html"
   },
   {
-    "name":  "Skoda Fabia",
+    "name":  "Hyundai I30",
     "year": 2011,
     "mileage": 200,
     "price": 5500,
-    "city": "Димитров",
+    "city": "Покровск",
     "district": "Донецкая",
     "img": "https://cdn3.riastatic.com/photosnew/auto/photo/hyundai_i30__502429298f.jpg",
     "pluses": ["Хорошая машина", "Год", "Цена","Ну вообще вроде не плохо, но этот пробег..."],
     "minuses": [ "пишет есть нюансы по кузову, надо смотреть", "Пробег"],
     "link": "https://auto.ria.com/auto_hyundai_i30_34725484.html"
+  },
+  {
+    "name":  "Kia Rio",
+    "year": 2006,
+    "mileage": 181,
+    "price": 5100,
+    "city": "Доброполье",
+    "district": "Донецкая",
+    "img": "https://cdn2.riastatic.com/photosnew/auto/photo/kia_rio__477157087f.jpg",
+    "pluses": ["Хорошая машина", "Цена","Ну вообще вроде не плохо, но что-то смущает..."],
+    "minuses": [ "Год", "Пробег"],
+    "link": "https://auto.ria.com/auto_kia_rio_33733996.html"
+  },
+  {
+    "name":  "Kia Rio",
+    "year": 2006,
+    "mileage": 181,
+    "price": 5100,
+    "city": "Доброполье",
+    "district": "Донецкая",
+    "img": "https://cdn2.riastatic.com/photosnew/auto/photo/kia_rio__477157087f.jpg",
+    "pluses": ["Хорошая машина", "Цена","Ну вообще вроде не плохо, но что-то смущает..."],
+    "minuses": [ "Год", "Пробег"],
+    "link": "https://auto.ria.com/auto_kia_rio_33733996.html"
   }
 ]
