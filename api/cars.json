@@ -168,15 +168,15 @@
     "link": "https://auto.ria.com/auto_kia_rio_33733996.html"
   },
   {
-    "name":  "Kia Rio",
-    "year": 2006,
-    "mileage": 181,
-    "price": 5100,
+    "name":  "Hyundai Getz",
+    "year": 2005,
+    "mileage": 200,
+    "price": 3999,
     "city": "Доброполье",
     "district": "Донецкая",
-    "img": "https://cdn2.riastatic.com/photosnew/auto/photo/kia_rio__477157087f.jpg",
-    "pluses": ["Хорошая машина", "Цена","Ну вообще вроде не плохо, но что-то смущает..."],
+    "img": "https://cdn3.riastatic.com/photosnew/auto/photo/hyundai_getz__511140263f.jpg",
+    "pluses": ["Цена","Но походу она убитая"],
     "minuses": [ "Год", "Пробег"],
-    "link": "https://auto.ria.com/auto_kia_rio_33733996.html"
+    "link": "https://auto.ria.com/auto_hyundai_getz_35063309.html"
   }
 ]
