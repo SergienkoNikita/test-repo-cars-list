@@ -108,15 +108,15 @@
     "link": "https://auto.ria.com/auto_nissan_note_35126973.html"
   },
   {
-    "name": "Nissan Note",
-    "year": 2006,
-    "mileage": 191,
+    "name": "Volkswagen Beetle",
+    "year": 2000,
+    "mileage": 136,
     "price": 4900,
     "city": "Покровск",
     "district": "Донецкая",
-    "img": "https://cdn1.riastatic.com/photosnew/auto/photo/nissan_note__512715261f.jpg",
-    "pluses": ["Комплектация", "Не большой", "Пишет что обслуженая", "Ездила девушка..."],
-    "minuses": ["Пробег", "Цена", "Какой-то он уставший"],
-    "link": "https://auto.ria.com/auto_nissan_note_35126973.html"
+    "img": "https://cdn2.riastatic.com/photosnew/auto/photo/volkswagen_beetle__474898447f.jpg",
+    "pluses": ["Машина на любителя, девушкам нравится", "Пишет что обслуженая", "Если хорошее состояние, то не лохой вариант"],
+    "minuses": ["Купе (двух дверная)", "Год"],
+    "link": "https://auto.ria.com/auto_volkswagen_beetle_33644617.htm"
   }
 ]
