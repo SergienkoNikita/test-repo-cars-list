@@ -172,11 +172,47 @@
     "year": 2005,
     "mileage": 200,
     "price": 3999,
-    "city": "Доброполье",
+    "city": "Покровск",
     "district": "Донецкая",
     "img": "https://cdn3.riastatic.com/photosnew/auto/photo/hyundai_getz__511140263f.jpg",
     "pluses": ["Цена","Но походу она убитая"],
     "minuses": [ "Год", "Пробег"],
     "link": "https://auto.ria.com/auto_hyundai_getz_35063309.html"
+  },
+  {
+    "name":  "Ford Focus",
+    "year": 2013,
+    "mileage": 90,
+    "price": 7000,
+    "city": "Доброполье",
+    "district": "Донецкая",
+    "img": "https://cdn1.riastatic.com/photosnew/auto/photo/ford_focus__510925766f.jpg",
+    "pluses": ["Пробег", "Год", "Состояние", "Отличный вариант, но дорого"],
+    "minuses": [ "Цена"],
+    "link": "https://auto.ria.com/auto_ford_focus_35056090.html"
+  },
+  {
+    "name":  "Mitsubishi Lancer",
+    "year": 2008,
+    "mileage": 139,
+    "price": 6250,
+    "city": "Краматорск",
+    "district": "Донецкая",
+    "img": "https://cdn4.riastatic.com/photosnew/auto/photo/mitsubishi_lancer__506081349f.jpg",
+    "pluses": ["Состояние", "Отличный вариант, но дорого", "Хорошее состояние", "Не плохая комплектация"],
+    "minuses": [ "Цена"],
+    "link": "https://auto.ria.com/auto_mitsubishi_lancer_34870841.html"
+  },
+  {
+    "name":  "Nissan Note",
+    "year": 2009,
+    "mileage": 133,
+    "price": 5100,
+    "city": "Покровск",
+    "district": "Донецкая",
+    "img": "https://cdn2.riastatic.com/photosnew/auto/photo/nissan_note__510916602f.jpg",
+    "pluses": ["Вот вроде все ок, и пробег, и цена, и год - но что-то смущает..."],
+    "minuses": [],
+    "link": "https://auto.ria.com/auto_nissan_note_35055734.html"
   }
 ]
