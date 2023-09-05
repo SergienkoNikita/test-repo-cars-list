@@ -117,6 +117,42 @@
     "img": "https://cdn2.riastatic.com/photosnew/auto/photo/volkswagen_beetle__474898447f.jpg",
     "pluses": ["Машина на любителя, девушкам нравится", "Пишет что обслуженая", "Если хорошее состояние, то не лохой вариант"],
     "minuses": ["Купе (двух дверная)", "Год"],
-    "link": "https://auto.ria.com/auto_volkswagen_beetle_33644617.htm"
+    "link": "https://auto.ria.com/auto_volkswagen_beetle_33644617.html"
+  },
+  {
+    "name":  "Mitsubishi Lancer",
+    "year": 2008,
+    "mileage": 179,
+    "price": 5600,
+    "city": "Константиновка",
+    "district": "Донецкая",
+    "img": "https://cdn3.riastatic.com/photosnew/auto/photo/mitsubishi_lancer__512286268f.jpg",
+    "pluses": ["Обычное состояние для ее года", "2 комплекта резины"],
+    "minuses": ["Цена, для ее пробега/года - дорого (еслибы 4700-5000 - норм)"],
+    "link": "https://auto.ria.com/auto_mitsubishi_lancer_35109718.html"
+  },
+  {
+    "name":  "Skoda Fabia",
+    "year": 2013,
+    "mileage": 127,
+    "price": 7000,
+    "city": "Димитров",
+    "district": "Донецкая",
+    "img": "https://cdn3.riastatic.com/photosnew/auto/photo/skoda_fabia__337701458f.jpg",
+    "pluses": ["62 ФОТО!", "Судя по фото - состояние отличное", "Серисная книжка"],
+    "minuses": ["Ну уж очень дорого!"],
+    "link": "https://auto.ria.com/auto_skoda_fabia_25729873.html"
+  },
+  {
+    "name":  "Skoda Fabia",
+    "year": 2011,
+    "mileage": 200,
+    "price": 5500,
+    "city": "Димитров",
+    "district": "Донецкая",
+    "img": "https://cdn3.riastatic.com/photosnew/auto/photo/hyundai_i30__502429298f.jpg",
+    "pluses": ["Хорошая машина", "Год", "Цена","Ну вообще вроде не плохо, но этот пробег..."],
+    "minuses": [ "пишет есть нюансы по кузову, надо смотреть", "Пробег"],
+    "link": "https://auto.ria.com/auto_hyundai_i30_34725484.html"
   }
 ]
