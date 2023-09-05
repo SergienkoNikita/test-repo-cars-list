@@ -40,13 +40,17 @@ body {
 }
 
 .content {
-  margin-top: 120px;
+  margin-top: 180px;
   padding: 0 15px 100px;
   gap: 20px;
 }
 
 .flex {
   display: flex;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
 }
 
 .flex-col {
