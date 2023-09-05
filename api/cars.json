@@ -238,5 +238,53 @@
     "pluses": ["Он пишет что она идеальная, но там только 1 фото..."],
     "minuses": ["Если все так как он описал - тоих нет"],
     "link": "https://auto.ria.com/auto_skoda_fabia_30307440.html"
+  },
+  {
+    "name":  "Skoda Fabia",
+    "year": 2006,
+    "mileage": 189,
+    "price": 2700,
+    "city": "Доброполье",
+    "district": "Донецкая",
+    "img": "https://cdn0.riastatic.com/photosnew/auto/photo/skoda_fabia__454274595f.jpg",
+    "pluses": ["Ну тут явно цена.", "По кузову много вопросов, НО! - если только кузов, а все остальное ок - можно загнать ее на ЛКП, отдать 1500$, и это будет очень выгодно"],
+    "minuses": ["Кузов"],
+    "link": "https://auto.ria.com/auto_skoda_fabia_32806481.html"
+  },
+  {
+    "name":  "Skoda Citigo",
+    "year": 2012,
+    "mileage": 164,
+    "price": 6000,
+    "city": "Константиновка",
+    "district": "Донецкая",
+    "img": "https://cdn4.riastatic.com/photosnew/auto/photo/skoda_citigo__431622164f.jpg",
+    "pluses": ["Она просто конфетка, я б Карине взял с удовольствием такую", "Цена (хоть и 6к, но год и состояние)", "Кузов", "Надежная", "Год"],
+    "minuses": ["Если движок и коробка ок, то минусов нет, и это отличный вариант"],
+    "link": "https://auto.ria.com/auto_skoda_citigo_31798512.html"
+  },
+  {
+    "name":  "Kia Ceed",
+    "year": 2009,
+    "mileage": 180,
+    "price": 5900,
+    "city": "Селидово",
+    "district": "Донецкая",
+    "img": "https://cdn1.riastatic.com/photosnew/auto/photo/kia_ceed__475597781f.jpg",
+    "pluses": ["Отличная машина, кроме колхозной магнитолы"],
+    "minuses": ["Купе (2х дверная)", "Цена"],
+    "link": "https://auto.ria.com/auto_kia_ceed_33672593.html"
+  },
+  {
+    "name":  "Kia Ceed",
+    "year": 2009,
+    "mileage": 180,
+    "price": 5900,
+    "city": "Селидово",
+    "district": "Донецкая",
+    "img": "https://cdn1.riastatic.com/photosnew/auto/photo/kia_ceed__475597781f.jpg",
+    "pluses": ["Отличная машина, кроме колхозной магнитолы"],
+    "minuses": ["Купе (2х дверная)", "Цена"],
+    "link": "https://auto.ria.com/auto_kia_ceed_33672593.html"
   }
 ]
